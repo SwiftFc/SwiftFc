@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @SwiftFc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Backend and Frontend 
+- 🌱 I’m currently learning Python and Javascript
+- 💞️ I’m looking to collaborate on Backend and Software Development
+- 📫 How to reach me aseiduhenrydade@gmail.com
+
 
 <!---
 SwiftFc/SwiftFc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
