@@ -1,9 +1,6 @@
 - <h1>👋 Hi, I’m SwiftFc</h1>
 
-- ![image](https://github.com/SwiftFc/SwiftFc/assets/135968578/04855a92-c798-4438-afd3-cd581cc9627d)
--
-
-- ![image](https://github.com/SwiftFc/SwiftFc/assets/135968578/72d0f9aa-b491-4edd-963d-f8eb00d834be)
+- ![image]
 
 -
 - ![image](https://github.com/SwiftFc/SwiftFc/assets/135968578/b92b2a09-cce2-4239-80ce-a16c029e9336)
