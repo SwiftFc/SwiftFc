@@ -5,7 +5,7 @@
 -
 -![image](https://github.com/SwiftFc/SwiftFc/assets/135968578/b92b2a09-cce2-4239-80ce-a16c029e9336)
 
--https://twitter.com/i/flow/login?redirect_after_login=%2Fintent%2Ffollow%3Fscreen_name%3Dpaakwesihenry
+-https://twitter.com/intent/follow?screen_name=paakwesihenry
 
 - <h2>ABOUT ME</h2>
 - 👀 I’m interested in Backend and Frontend</h1> 
