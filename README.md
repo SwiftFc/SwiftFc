@@ -1,8 +1,13 @@
-- <h1>👋 Hi, I’m @SwiftFc
+- <h1>👋 Hi, I’m SwiftFc</h1>
+-
+-
+-
+-
+- <h2>ABOUT ME</h2>
 - 👀 I’m interested in Backend and Frontend</h1> 
 - 🌱 I’m currently learning C programming Language
-- 💞️ I’m looking to collaborate on Backend and Software Development
-- 📫 How to reach me aseiduhenrydade@gmail.com
+- 💞️ DO HARD THINGS
+- 📫 My Email: aseiduhenrydade@gmail.com
 
 
 <!---
