@@ -1,12 +1,11 @@
 - <h1>👋 Hi, I’m SwiftFc</h1>
 
--  <image src=https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png alt="Image" width="400" style="max-width: 100%;">
-- 
+-  <image src=https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png alt="Image" width="400" style="max-width: 200%;">
+  
 
   
 
-- https://twitter.com/intent/follow?screen_name=paakwesihenry
-
+  
 - <h2>ABOUT ME</h2>
 - 👀 I’m interested in Backend and Frontend</h1> 
 - 🌱 I’m currently learning C programming Language
