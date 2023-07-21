@@ -1,35 +1,12 @@
 - <h1>👋 Hi, I’m SwiftFc</h1>
 
-- <html>
-<head>
-    <title>Image Resize</title>
-    <style>
-        img {
-            max-width: 200px;
-            max-height: 150px;
-        }
-    </style>
-</head>
-<body>
-    <img src="path/to/your/image.jpg" alt="Image">
-</body>
-</html>![image](https://github.com/SwiftFc/SwiftFc/assets/135968578/04855a92-c798-4438-afd3-cd581cc9627d)
+- ![image](https://github.com/SwiftFc/SwiftFc/assets/135968578/04855a92-c798-4438-afd3-cd581cc9627d)
 -
 -
--<html>
-<head>
-    <title>Image Resize</title>
-    <style>
-        img {
+- img {
             max-width: 200px;
             max-height: 150px;
-        }
-    </style>
-</head>
-<body>
-    <img src="path/to/your/image.jpg" alt="Image">
-</body>
-</html> ![image](https://github.com/SwiftFc/SwiftFc/assets/135968578/b92b2a09-cce2-4239-80ce-a16c029e9336)
+        }![image](https://github.com/SwiftFc/SwiftFc/assets/135968578/b92b2a09-cce2-4239-80ce-a16c029e9336)
 
 - https://twitter.com/intent/follow?screen_name=paakwesihenry
 
