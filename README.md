@@ -6,7 +6,7 @@
 - img {
             max-width: 200px;
             max-height: 150px;
-        }![image](https://github.com/SwiftFc/SwiftFc/assets/135968578/b92b2a09-cce2-4239-80ce-a16c029e9336)
+-        }![image](https://github.com/SwiftFc/SwiftFc/assets/135968578/b92b2a09-cce2-4239-80ce-a16c029e9336)
 
 - https://twitter.com/intent/follow?screen_name=paakwesihenry
 
