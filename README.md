@@ -1,8 +1,8 @@
 - <h1>👋 Hi, I’m SwiftFc</h1>
--
--
--
--
+
+
+
+
 - <h2>ABOUT ME</h2>
 - 👀 I’m interested in Backend and Frontend</h1> 
 - 🌱 I’m currently learning C programming Language
