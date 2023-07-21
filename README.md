@@ -1,4 +1,4 @@
-  - <p1>👋 Hi, I’m SwiftFc</p1> 
+  - <div style="text-align: center;"👋 Hi, I’m SwiftFc> 
 
 -  <image src=https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png alt="Image" width="250" style="max-width: 200%;">
   
